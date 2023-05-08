@@ -1,0 +1,8 @@
+/* Added styling */
+.btn-success,.btn-warning{
+    background-color:#337ab7;
+    border-color:#337ab7;
+  }
+  .even{
+    background-color: ;font-weight: 600;
+  }

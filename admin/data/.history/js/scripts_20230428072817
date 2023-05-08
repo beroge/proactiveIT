@@ -1,0 +1,4 @@
+$(document).ready(function() {
+  $('#myTable tbody tr:nth-child(odd)').addClass('odd-row');
+  $('#myTable tbody tr:nth-child(even)').addClass('even-row');
+});

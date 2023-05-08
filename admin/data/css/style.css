@@ -1,0 +1,18 @@
+/* Added styling */
+body{
+  background-color:#e7e7e7;
+}
+.btn-success,.btn-warning{
+    background-color:#337ab7;
+    border-color:#337ab7;
+  }
+  .even{
+    background-color: #EEE9E9	;font-weight: 600;
+  }
+  .navbar-nav li:hover{
+    background-color: #e7e7e7!important;
+}
+.ui-datepicker .ui-datepicker-header{
+  color:#ffffff;
+  background:#337ab7;
+}
